@@ -20,7 +20,7 @@ public class MSG {
 	public static FreakyEnchants plugin;
 
 	/**
-	 * Returns the string with &'s being ง
+	 * Returns the string with &'s being ยง
 	 * 
 	 * @param msg the message to replace
 	 * @return returns colored msg
